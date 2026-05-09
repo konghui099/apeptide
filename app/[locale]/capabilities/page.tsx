@@ -1,6 +1,7 @@
 import { CapabilityCard } from "@/components/capabilities/capability-card";
 import { CertGrid } from "@/components/capabilities/cert-grid";
-import { Container, Section } from "@/components/ui/section";
+import { Section } from "@/components/ui/section";
+import { Container } from "@/components/ui/container";
 import { FlaskConical, Ruler, Shield, Truck } from "lucide-react";
 
 export default function CapabilitiesPage() {

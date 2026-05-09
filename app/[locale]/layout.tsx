@@ -3,6 +3,7 @@ import { Inter } from 'next/font/google';
 import { NextIntlClientProvider } from 'next-intl';
 import { getMessages, setRequestLocale } from 'next-intl/server';
 import Script from 'next/script';
+import { Suspense } from 'react';
 import { Header } from '@/components/layout/header';
 import { Footer } from '@/components/layout/footer';
 import { GA4Provider } from '@/components/analytics/ga4-provider';
@@ -36,7 +37,9 @@ export default async function LocaleLayout({
     <html lang={locale}>
       <body className={inter.className}>
         <NextIntlClientProvider messages={messages}>
-          <GA4Provider />
+          <Suspense fallback={null}>
+            <GA4Provider />
+          </Suspense>
           <div className="flex min-h-screen flex-col">
             <Header />
             <main className="flex-1">{children}</main>

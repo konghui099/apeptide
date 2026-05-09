@@ -1,5 +1,6 @@
 import { getTranslations } from 'next-intl/server';
-import { Section, Container } from '@/components/ui/section';
+import { Section } from '@/components/ui/section';
+import { Container } from '@/components/ui/container';
 import { Button } from '@/components/ui/button';
 import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card';
 import { ArrowRight } from 'lucide-react';

@@ -3,12 +3,12 @@ export type InquiryGrade = 'A' | 'B' | 'C';
 export interface InquiryData {
   contactName: string;
   email: string;
-  companyName: string;
+  companyName?: string;
   phone?: string;
   country?: string;
   product?: string;
   quantity?: string;
-  message: string;
+  message?: string;
 }
 
 export interface GradeResult {

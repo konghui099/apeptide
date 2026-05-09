@@ -55,8 +55,8 @@ async function syncProductsToAlgolia() {
       objectID: product.id,
       slug: product.slug,
       name: translation?.name || product.slug,
-      description: translation?.description,
-      application: translation?.application,
+      description: translation?.description || undefined,
+      application: translation?.application || undefined,
       categories,
       specifications: product.specifications.map(spec => ({
         key: spec.key,
