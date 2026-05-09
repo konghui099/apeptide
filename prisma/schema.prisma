@@ -1,0 +1,184 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Product {
+  id           String                @id @default(cuid())
+  slug         String                @unique
+  createdAt    DateTime              @default(now())
+  updatedAt    DateTime              @updatedAt
+  translations ProductTranslation[]
+  categories   ProductCategory[]
+  specifications ProductSpecification[]
+  documents    Document[]
+  literature   Literature[]
+  molecules    Molecule[]
+  inquiryProducts InquiryProduct[]
+}
+
+model ProductTranslation {
+  id          String   @id @default(cuid())
+  productId   String
+  locale      String
+  name        String
+  description String?
+  application String?
+
+  product Product @relation(fields: [productId], references: [id], onDelete: Cascade)
+
+  @@unique([productId, locale])
+}
+
+model Category {
+  id           String               @id @default(cuid())
+  slug         String               @unique
+  translations CategoryTranslation[]
+  products     ProductCategory[]
+}
+
+model CategoryTranslation {
+  id         String   @id @default(cuid())
+  categoryId String
+  locale     String
+  name       String
+
+  category Category @relation(fields: [categoryId], references: [id], onDelete: Cascade)
+
+  @@unique([categoryId, locale])
+}
+
+model ProductCategory {
+  productId  String
+  categoryId String
+
+  product  Product  @relation(fields: [productId], references: [id], onDelete: Cascade)
+  category Category @relation(fields: [categoryId], references: [id], onDelete: Cascade)
+
+  @@id([productId, categoryId])
+}
+
+model ProductSpecification {
+  id        String  @id @default(cuid())
+  productId String
+  key       String
+  value     String
+  unit      String?
+
+  product Product @relation(fields: [productId], references: [id], onDelete: Cascade)
+}
+
+model Document {
+  id        String   @id @default(cuid())
+  productId String?
+  type      String   // COA/SDS/TDS
+  locale    String
+  title     String
+  fileUrl   String
+  version   String?
+
+  product Product? @relation(fields: [productId], references: [id], onDelete: SetNull)
+}
+
+model Literature {
+  id        String  @id @default(cuid())
+  productId String
+  title     String
+  authors   String
+  journal   String?
+  doi       String?
+  year      Int?
+  url       String?
+
+  product Product @relation(fields: [productId], references: [id], onDelete: Cascade)
+}
+
+model Molecule {
+  id           String   @id @default(cuid())
+  productId    String
+  modelUrl     String
+  thumbnailUrl String?
+  createdAt    DateTime @default(now())
+
+  product Product @relation(fields: [productId], references: [id], onDelete: Cascade)
+}
+
+model Inquiry {
+  id          String   @id @default(cuid())
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+  companyName String
+  contactName String
+  email       String
+  phone       String?
+  country     String?
+  message     String
+  grade       String?  // A/B/C
+  status      String?
+  assignedTo  String?
+  notes       String?
+  products    InquiryProduct[]
+}
+
+model InquiryProduct {
+  inquiryId String
+  productId String
+  quantity  Int?
+  purity    String?
+
+  inquiry Inquiry @relation(fields: [inquiryId], references: [id], onDelete: Cascade)
+  product Product @relation(fields: [productId], references: [id], onDelete: Cascade)
+
+  @@id([inquiryId, productId])
+}
+
+model TechnicalArticle {
+  id          String                     @id @default(cuid())
+  slug        String                     @unique
+  locale      String
+  title       String
+  content     String
+  excerpt     String?
+  author      String?
+  publishedAt DateTime?
+  updatedAt   DateTime                   @updatedAt
+  tags        String[]
+  translations TechnicalArticleTranslation[]
+}
+
+model TechnicalArticleTranslation {
+  id        String @id @default(cuid())
+  articleId String
+  locale    String
+  title     String
+  content   String
+  excerpt   String?
+
+  article TechnicalArticle @relation(fields: [articleId], references: [id], onDelete: Cascade)
+
+  @@unique([articleId, locale])
+}
+
+model FAQ {
+  id        String @id @default(cuid())
+  locale    String
+  question  String
+  answer    String
+  category  String?
+  sortOrder Int?
+}
+
+model SiteSettings {
+  id         String  @id @default("settings")
+  locale     String  @unique
+  ogImage    String?
+  address    String?
+  phone      String?
+  email      String?
+  linkedinUrl String?
+  twitterUrl  String?
+}
