@@ -1,29 +1,91 @@
 {
   "nav": {
     "products": "製品",
-    "technical": "技術",
-    "capabilities": "製造能力",
+    "testResults": "検査結果",
     "about": "会社概要",
+    "b2b": "法人向け",
     "contact": "お問い合わせ"
   },
+  "language": {
+    "select": "言語選択"
+  },
   "hero": {
-    "title": "研究と産業向けの先進ペプチドソリューション",
-    "subtitle": "製薬、バイオテクノロジー、研究アプリケーション向けのグローバル企业中、最も厳しい品質基準で製造された高純度ペプチド。",
+    "title": "研究用ペプチドサプライヤー",
+    "subtitle": "イン VITRO研究用の超高純度研究用ペプチドとラボ用化合物。第三方検査で純度99%以上。EUおよび世界配送。",
     "viewProducts": "製品を見る",
-    "getQuote": "見積もりを依頼"
+    "getQuote": "見積もりを依頼",
+    "disclaimer": "研究室研究用のみ。人体使用禁止。"
   },
   "features": {
     "highPurity": {
-      "title": "高純度",
-      "description": "98%以上の純度を実現する多段階HPLC精製と厳格な質量分析法による検証。"
+      "title": "99%+ 純度検証",
+      "description": "各バッチはHPLCおよび質量分析法による第三方検査を実施。全製品に検査証明書付き。"
     },
-    "customSynthesis": {
-      "title": "カスタム合成",
-      "description": "架橋ペプチドや環状構造を含む、5〜100以上の氨基酸配列のカスタマイズ。"
+    "globalShipping": {
+      "title": "世界配送",
+      "description": "EUおよび世界へ向けた高速で信頼性の高い配送。敏感な化合物のためのコールドチェーン物流。"
     },
-    "globalCompliance": {
-      "title": "グローバルコンプライアンス",
-      "description": "GMP、ISO 9001、ICH Q7ガイドラインに準拠したFDA登録施設。"
+    "qualityAssurance": {
+      "title": "品質保証",
+      "description": "ISO認定製造。原材料から最終製品までの完全追跡可能性。品質報告書付き。"
     }
+  },
+  "product": {
+    "categories": {
+      "title": "製品カテゴリー",
+      "peptides": "ペプチド",
+      "glp1": "GLP-1 类似物",
+      "sarms": "SARMs",
+      "bioregulators": "生物調節剤",
+      "nootropics": "ノotropics",
+      "ghAnalogs": "成長ホルモン類似体&Sectagogues",
+      "myostatin": "ミオスタチン阻害剤",
+      "gonadotropins": "性腺刺激ホルモン",
+      "injectables": "注射剤",
+      "nasal": "点鼻薬",
+      "pellets": "ペレット&Pills",
+      "researchSupplies": "研究用品"
+    },
+    "catalog": {
+      "title": "製品カタログ",
+      "subtitle": "研究用ペプチドと化合物の総合的な範囲を閲覧"
+    }
+  },
+  "testResults": {
+    "title": "検査結果",
+    "subtitle": "全製品の第三方ラボレポートを表示",
+    "download": "COAをダウンロード"
+  },
+  "about": {
+    "title": "会社概要",
+    "content": "AnkiPeptideは、超高純度研究用ペプチドとラボ用化合物の大手サプライヤーです。イン VITRO研究アプリケーション向けに、研究者、ラボ、制药企業に世界中の高品質ペプチドを供給しています。",
+    "mission": "競争力のある価格で高純度ペプチド化合物への信頼できるアクセスを提供することが私たちの使命です。"
+  },
+  "b2b": {
+    "title": "法人パートナーシップ",
+    "subtitle": "研究機関と制药企業向けのバルク注文とカスタム合成",
+    "contact": "バルク価格の問い合わせ"
+  },
+  "contact": {
+    "title": "お問い合わせ",
+    "subtitle": "製品お問い合わせ、バルク注文、または技術サポートについては、お問い合わせください"
+  },
+  "footer": {
+    "products": "製品",
+    "company": "会社",
+    "support": "サポート",
+    "legal": "法的情報",
+    "allProducts": "全製品",
+    "testResults": "検査結果",
+    "about": "会社概要",
+    "b2b": "法人向け",
+    "contact": "お問い合わせ",
+    "faq": "よくある質問",
+    "shipping": "配送情報",
+    "quality": "品質保証",
+    "privacy": "プライバシーポリシー",
+    "terms": "利用規約",
+    "disclaimer": "研究用のみ。人体摂取禁止。",
+    "copyright": "全著作権所有。"
   }
 }

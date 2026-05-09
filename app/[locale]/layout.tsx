@@ -10,11 +10,6 @@ import { GA4Provider } from '@/components/analytics/ga4-provider';
 
 const inter = Inter({ subsets: ['latin'] });
 
-export const metadata: Metadata = {
-  title: 'AnkiPotide',
-  description: 'Empowering memory retention through spaced repetition technology.',
-};
-
 type LocaleParams = {
   children: React.ReactNode;
   params: Promise<{ locale: string }>;
@@ -35,7 +30,7 @@ export default async function LocaleLayout({
 
   return (
     <html lang={locale}>
-      <body className={inter.className}>
+      <body className={`${inter.className} antialiased`}>
         <NextIntlClientProvider messages={messages}>
           <Suspense fallback={null}>
             <GA4Provider />

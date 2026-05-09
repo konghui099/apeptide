@@ -1,29 +1,91 @@
 {
   "nav": {
     "products": "产品",
-    "technical": "技术支持",
-    "capabilities": "生产能力",
+    "testResults": "检测报告",
     "about": "关于我们",
+    "b2b": "企业采购",
     "contact": "联系我们"
   },
+  "language": {
+    "select": "选择语言"
+  },
   "hero": {
-    "title": "先进肽解决方案，服务于研究与工业",
-    "subtitle": "我们按照严格的质量标准生产高纯度肽类化合物，适用于全球制药、生物技术和研究应用。",
-    "viewProducts": "查看产品",
-    "getQuote": "获取报价"
+    "title": "科研多肽供应商",
+    "subtitle": "超高纯度科研多肽和实验室化合物，用于体外研究。第三方检测，纯度99%+。欧盟及全球配送。",
+    "viewProducts": "浏览产品",
+    "getQuote": "获取报价",
+    "disclaimer": "仅用于实验室研究用途。不可用于人体。"
   },
   "features": {
     "highPurity": {
-      "title": "高纯度",
-      "description": "通过多级HPLC纯化达到98%+纯度，并进行严格的质量光谱验证。"
+      "title": "99%+ 纯度验证",
+      "description": "每批次均通过第三方HPLC和质谱检测。所有产品均提供检测证书。"
     },
-    "customSynthesis": {
-      "title": "定制合成",
-      "description": "根据需求定制5至100+氨基酸的肽序列，包括订书肽和环肽等修饰。"
+    "globalShipping": {
+      "title": "全球配送",
+      "description": "快速可靠的配送服务，覆盖欧盟及全球目的地。敏感化合物冷链物流。"
     },
-    "globalCompliance": {
-      "title": "全球合规",
-      "description": "FDA注册设施，符合GMP、ISO 9001和ICH Q7制药中间体指南。"
+    "qualityAssurance": {
+      "title": "质量保证",
+      "description": "ISO认证制造商。从原材料到成品的全程可追溯。提供质量报告。"
     }
+  },
+  "product": {
+    "categories": {
+      "title": "产品分类",
+      "peptides": "多肽",
+      "glp1": "GLP-1 类似物",
+      "sarms": "SARMs",
+      "bioregulators": "生物调节剂",
+      "nootropics": "促智剂",
+      "ghAnalogs": "生长激素类似物",
+      "myostatin": "肌抑素抑制剂",
+      "gonadotropins": "促性腺激素",
+      "injectables": "注射剂",
+      "nasal": "鼻喷剂",
+      "pellets": " pellet",
+      "researchSupplies": "研究用品"
+    },
+    "catalog": {
+      "title": "产品目录",
+      "subtitle": "浏览我们的全系列科研多肽和化合物"
+    }
+  },
+  "testResults": {
+    "title": "检测报告",
+    "subtitle": "查看所有产品的第三方实验室报告",
+    "download": "下载COA"
+  },
+  "about": {
+    "title": "关于我们",
+    "content": "AnkiPeptide 是领先的科研多肽和实验室化合物供应商。我们为全球研究人员、实验室和制药公司提供用于体外研究的高质量多肽。",
+    "mission": "我们的使命是为研究人员提供可靠的、高纯度多肽化合物， 价格优惠。"
+  },
+  "b2b": {
+    "title": "企业合作",
+    "subtitle": "为研究机构和制药公司提供批量采购和定制合成服务",
+    "contact": "联系获取批量报价"
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "产品咨询、批量采购或技术支持请联系我们"
+  },
+  "footer": {
+    "products": "产品",
+    "company": "公司",
+    "support": "支持",
+    "legal": "法律信息",
+    "allProducts": "全部产品",
+    "testResults": "检测报告",
+    "about": "关于我们",
+    "b2b": "企业采购",
+    "contact": "联系我们",
+    "faq": "常见问题",
+    "shipping": "配送信息",
+    "quality": "质量保证",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "disclaimer": "仅供研究使用。不可用于人体摄入。",
+    "copyright": "版权所有。"
   }
 }

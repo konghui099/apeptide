@@ -1,29 +1,91 @@
 {
   "nav": {
     "products": "Productos",
-    "technical": "Técnico",
-    "capabilities": "Capacidades",
+    "testResults": "Resultados de Pruebas",
     "about": "Nosotros",
+    "b2b": "B2B",
     "contact": "Contacto"
   },
+  "language": {
+    "select": "Seleccionar Idioma"
+  },
   "hero": {
-    "title": "Soluciones Avanzadas de Péptidos para Investigación e Industria",
-    "subtitle": "Péptidos de alta pureza fabricados bajo estrictos estándares de calidad para aplicaciones farmacéuticas, biotecnológicas y de investigación en todo el mundo.",
+    "title": "Proveedor de Péptidos de Investigación",
+    "subtitle": "Péptidos de investigación ultra puros y compuestos de laboratorio para uso en investigación in-vitro. Probados por terceros con pureza del 99%+. Envío a la UE y mundial.",
     "viewProducts": "Ver Productos",
-    "getQuote": "Solicitar Cotización"
+    "getQuote": "Obtener Cotización",
+    "disclaimer": "Solo para propósitos de investigación de laboratorio. No para uso humano."
   },
   "features": {
     "highPurity": {
-      "title": "Alta Pureza",
-      "description": "Purificación HPLC multietapa que alcanza niveles de pureza del 98%+ con verificación rigurosa por espectrometría de masas."
+      "title": "Pureza 99%+ Verificada",
+      "description": "Cada lote es analizado por terceros con verificación HPLC y espectrometría de masas. Certificados disponibles para todos los productos."
     },
-    "customSynthesis": {
-      "title": "Síntesis Personalizada",
-      "description": "Secuencias peptídicas personalizadas de 5 a más de 100 aminoácidos con modificaciones que incluyen péptidos stapled y estructuras cíclicas."
+    "globalShipping": {
+      "title": "Envío Mundial",
+      "description": "Envío rápido y confiable a la UE y destinos mundiales. Logística de cadena de frío para compuestos sensibles."
     },
-    "globalCompliance": {
-      "title": "Cumplimiento Global",
-      "description": "Instalación registrada por la FDA que cumple con las directrices GMP, ISO 9001 e ICH Q7 para intermedios farmacéuticos."
+    "qualityAssurance": {
+      "title": "Calidad Asegurada",
+      "description": "Fabricación certificada ISO. Trazabilidad completa desde materias primas hasta producto final. Informes de calidad incluidos."
     }
+  },
+  "product": {
+    "categories": {
+      "title": "Categorías de Productos",
+      "peptides": "Péptidos",
+      "glp1": "Análogos de GLP-1",
+      "sarms": "SARMs",
+      "bioregulators": "Biorreguladores",
+      "nootropics": "Nootrópicos",
+      "ghAnalogs": "Análogos de GH y Secretagogos",
+      "myostatin": "Inhibidores de Miostatina",
+      "gonadotropins": "Gonadotropinas",
+      "injectables": "Inyectables",
+      "nasal": "Sprays Nasales",
+      "pellets": "Pellets y Pastillas",
+      "researchSupplies": "Suministros de Investigación"
+    },
+    "catalog": {
+      "title": "Catálogo de Productos",
+      "subtitle": "Explore nuestra gama completa de péptidos y compuestos de investigación"
+    }
+  },
+  "testResults": {
+    "title": "Resultados de Pruebas",
+    "subtitle": "Ver informes de laboratorio de terceros para todos nuestros productos",
+    "download": "Descargar COA"
+  },
+  "about": {
+    "title": "Sobre Nosotros",
+    "content": "AnkiPeptide es un proveedor líder de péptidos de investigación ultra puros y compuestos de laboratorio. Suministramos a investigadores, laboratorios y compañías farmacéuticas de todo el mundo con péptidos de alta calidad para aplicaciones de investigación in-vitro.",
+    "mission": "Nuestra misión es proporcionar a los investigadores acceso confiable a compuestos de péptidos de alta pureza a precios competitivos."
+  },
+  "b2b": {
+    "title": "Alianzas B2B",
+    "subtitle": "Pedidos al por mayor y síntesis personalizada para instituciones de investigación y compañías farmacéuticas",
+    "contact": "Contáctenos para precios al por mayor"
+  },
+  "contact": {
+    "title": "Contáctenos",
+    "subtitle": "Póngase en contacto para consultas de productos, pedidos al por mayor o soporte técnico"
+  },
+  "footer": {
+    "products": "Productos",
+    "company": "Empresa",
+    "support": "Soporte",
+    "legal": "Legal",
+    "allProducts": "Todos los Productos",
+    "testResults": "Resultados de Pruebas",
+    "about": "Sobre Nosotros",
+    "b2b": "B2B",
+    "contact": "Contacto",
+    "faq": "Preguntas Frecuentes",
+    "shipping": "Información de Envío",
+    "quality": "Garantía de Calidad",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "disclaimer": "Solo para uso en investigación. No para consumo humano.",
+    "copyright": "Todos los derechos reservados."
   }
 }

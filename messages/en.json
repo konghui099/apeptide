@@ -1,29 +1,91 @@
 {
   "nav": {
     "products": "Products",
-    "technical": "Technical",
-    "capabilities": "Capabilities",
+    "testResults": "Test Results",
     "about": "About",
+    "b2b": "B2B",
     "contact": "Contact"
   },
+  "language": {
+    "select": "Select Language"
+  },
   "hero": {
-    "title": "Advanced Peptide Solutions for Research and Industry",
-    "subtitle": "High-purity peptides manufactured under strict quality standards for pharmaceutical, biotechnology, and research applications worldwide.",
+    "title": "Research Peptide Supplier",
+    "subtitle": "Ultra-pure research peptides and laboratory compounds for in-vitro research use. Third-party tested at 99%+ purity. EU & worldwide shipping.",
     "viewProducts": "View Products",
-    "getQuote": "Get Quote"
+    "getQuote": "Get Quote",
+    "disclaimer": "For laboratory research purposes only. Not for human use."
   },
   "features": {
     "highPurity": {
-      "title": "High Purity",
-      "description": "Multi-stage HPLC purification achieving 98%+ purity levels with rigorous mass spectrometry verification."
+      "title": "99%+ Purity Verified",
+      "description": "Every batch is third-party tested with HPLC and mass spectrometry verification. Certificates available for all products."
     },
-    "customSynthesis": {
-      "title": "Custom Synthesis",
-      "description": "Tailored peptide sequences from 5 to 100+ amino acids with modifications including stapled peptides and cyclic structures."
+    "globalShipping": {
+      "title": "Worldwide Shipping",
+      "description": "Fast, reliable shipping to EU and worldwide destinations. Cold-chain logistics for sensitive compounds."
     },
-    "globalCompliance": {
-      "title": "Global Compliance",
-      "description": "FDA-registered facility meeting GMP, ISO 9001, and ICH Q7 guidelines for pharmaceutical intermediates."
+    "qualityAssurance": {
+      "title": "Quality Assured",
+      "description": "ISO certified manufacturing. Full traceability from raw materials to final product. Quality reports included."
     }
+  },
+  "product": {
+    "categories": {
+      "title": "Product Categories",
+      "peptides": "Peptides",
+      "glp1": "GLP-1 Analogs",
+      "sarms": "SARMs",
+      "bioregulators": "Bioregulators",
+      "nootropics": "Nootropics",
+      "ghAnalogs": "GH Analogs & Secretagogues",
+      "myostatin": "Myostatin Inhibitors",
+      "gonadotropins": "Gonadotropins",
+      "injectables": "Injectables",
+      "nasal": "Nasal Sprays",
+      "pellets": "Pellets & Pills",
+      "researchSupplies": "Research Supplies"
+    },
+    "catalog": {
+      "title": "Product Catalog",
+      "subtitle": "Browse our comprehensive range of research peptides and compounds"
+    }
+  },
+  "testResults": {
+    "title": "Test Results",
+    "subtitle": "View third-party laboratory reports for all our products",
+    "download": "Download COA"
+  },
+  "about": {
+    "title": "About Us",
+    "content": "AnkiPeptide is a leading supplier of ultra-pure research peptides and laboratory compounds. We supply researchers, laboratories, and pharmaceutical companies worldwide with high-quality peptides for in-vitro research applications.",
+    "mission": "Our mission is to provide researchers with reliable access to high-purity peptide compounds at competitive prices."
+  },
+  "b2b": {
+    "title": "B2B Partnerships",
+    "subtitle": "Bulk orders and custom synthesis for research institutions and pharmaceutical companies",
+    "contact": "Contact us for bulk pricing"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch for product inquiries, bulk orders, or technical support"
+  },
+  "footer": {
+    "products": "Products",
+    "company": "Company",
+    "support": "Support",
+    "legal": "Legal",
+    "allProducts": "All Products",
+    "testResults": "Test Results",
+    "about": "About Us",
+    "b2b": "B2B",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "shipping": "Shipping Info",
+    "quality": "Quality Assurance",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "disclaimer": "Research use only. Not for human consumption.",
+    "copyright": "All rights reserved."
   }
 }
