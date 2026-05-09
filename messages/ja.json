@@ -1,0 +1,29 @@
+{
+  "nav": {
+    "products": "製品",
+    "technical": "技術",
+    "capabilities": "製造能力",
+    "about": "会社概要",
+    "contact": "お問い合わせ"
+  },
+  "hero": {
+    "title": "研究と産業向けの先進ペプチドソリューション",
+    "subtitle": "製薬、バイオテクノロジー、研究アプリケーション向けのグローバル企业中、最も厳しい品質基準で製造された高純度ペプチド。",
+    "viewProducts": "製品を見る",
+    "getQuote": "見積もりを依頼"
+  },
+  "features": {
+    "highPurity": {
+      "title": "高純度",
+      "description": "98%以上の純度を実現する多段階HPLC精製と厳格な質量分析法による検証。"
+    },
+    "customSynthesis": {
+      "title": "カスタム合成",
+      "description": "架橋ペプチドや環状構造を含む、5〜100以上の氨基酸配列のカスタマイズ。"
+    },
+    "globalCompliance": {
+      "title": "グローバルコンプライアンス",
+      "description": "GMP、ISO 9001、ICH Q7ガイドラインに準拠したFDA登録施設。"
+    }
+  }
+}

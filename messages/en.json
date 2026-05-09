@@ -1,0 +1,29 @@
+{
+  "nav": {
+    "products": "Products",
+    "technical": "Technical",
+    "capabilities": "Capabilities",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Advanced Peptide Solutions for Research and Industry",
+    "subtitle": "High-purity peptides manufactured under strict quality standards for pharmaceutical, biotechnology, and research applications worldwide.",
+    "viewProducts": "View Products",
+    "getQuote": "Get Quote"
+  },
+  "features": {
+    "highPurity": {
+      "title": "High Purity",
+      "description": "Multi-stage HPLC purification achieving 98%+ purity levels with rigorous mass spectrometry verification."
+    },
+    "customSynthesis": {
+      "title": "Custom Synthesis",
+      "description": "Tailored peptide sequences from 5 to 100+ amino acids with modifications including stapled peptides and cyclic structures."
+    },
+    "globalCompliance": {
+      "title": "Global Compliance",
+      "description": "FDA-registered facility meeting GMP, ISO 9001, and ICH Q7 guidelines for pharmaceutical intermediates."
+    }
+  }
+}

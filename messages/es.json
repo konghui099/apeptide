@@ -1,0 +1,29 @@
+{
+  "nav": {
+    "products": "Productos",
+    "technical": "Técnico",
+    "capabilities": "Capacidades",
+    "about": "Nosotros",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Soluciones Avanzadas de Péptidos para Investigación e Industria",
+    "subtitle": "Péptidos de alta pureza fabricados bajo estrictos estándares de calidad para aplicaciones farmacéuticas, biotecnológicas y de investigación en todo el mundo.",
+    "viewProducts": "Ver Productos",
+    "getQuote": "Solicitar Cotización"
+  },
+  "features": {
+    "highPurity": {
+      "title": "Alta Pureza",
+      "description": "Purificación HPLC multietapa que alcanza niveles de pureza del 98%+ con verificación rigurosa por espectrometría de masas."
+    },
+    "customSynthesis": {
+      "title": "Síntesis Personalizada",
+      "description": "Secuencias peptídicas personalizadas de 5 a más de 100 aminoácidos con modificaciones que incluyen péptidos stapled y estructuras cíclicas."
+    },
+    "globalCompliance": {
+      "title": "Cumplimiento Global",
+      "description": "Instalación registrada por la FDA que cumple con las directrices GMP, ISO 9001 e ICH Q7 para intermedios farmacéuticos."
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "nav": {
+    "products": "产品",
+    "technical": "技术支持",
+    "capabilities": "生产能力",
+    "about": "关于我们",
+    "contact": "联系我们"
+  },
+  "hero": {
+    "title": "先进肽解决方案，服务于研究与工业",
+    "subtitle": "我们按照严格的质量标准生产高纯度肽类化合物，适用于全球制药、生物技术和研究应用。",
+    "viewProducts": "查看产品",
+    "getQuote": "获取报价"
+  },
+  "features": {
+    "highPurity": {
+      "title": "高纯度",
+      "description": "通过多级HPLC纯化达到98%+纯度，并进行严格的质量光谱验证。"
+    },
+    "customSynthesis": {
+      "title": "定制合成",
+      "description": "根据需求定制5至100+氨基酸的肽序列，包括订书肽和环肽等修饰。"
+    },
+    "globalCompliance": {
+      "title": "全球合规",
+      "description": "FDA注册设施，符合GMP、ISO 9001和ICH Q7制药中间体指南。"
+    }
+  }
+}
