@@ -1,0 +1,91 @@
+{
+  "nav": {
+    "products": "Ürünler",
+    "testResults": "Test Sonuçları",
+    "about": "Hakkımızda",
+    "b2b": "B2B",
+    "contact": "İletişim"
+  },
+  "language": {
+    "select": "Dil seçin"
+  },
+  "hero": {
+    "title": "Araştırma Peptit Tedarikçisi",
+    "subtitle": "In-vitro araştırma için ultra saf araştırma peptitleri ve laboratuvar bileşikleri. %99+ saflıkta üçüncü taraf test. AB ve dünya çapında gönderim.",
+    "viewProducts": "Ürünleri görüntüle",
+    "getQuote": "Teklif alın",
+    "disclaimer": "Yalnızca laboratuvar araştırması için. İnsan kullanımı için değildir."
+  },
+  "features": {
+    "highPurity": {
+      "title": "%99+ Saflık Doğrulandı",
+      "description": "Her parti, HPLC ve kütle spektrometrisi doğrulaması ile üçüncü taraf testinden geçer. Tüm ürünler için sertifikalar mevcuttur."
+    },
+    "globalShipping": {
+      "title": "Dünya Çapında Gönderim",
+      "description": "AB ve dünya çapındaki destinasyonlara hızlı, güvenilir gönderim. Hassas bileşikler için soğuk zincir lojistiği."
+    },
+    "qualityAssurance": {
+      "title": "Kalite Güvencesi",
+      "description": "ISO sertifikalı üretim. Hammaddeyi nihai ürüne kadar tam izlenebilirlik. Kalite raporları dahildir."
+    }
+  },
+  "product": {
+    "categories": {
+      "title": "Ürün Kategorileri",
+      "peptides": "Peptitler",
+      "glp1": "GLP-1 Analogları",
+      "sarms": "SARMs",
+      "bioregulators": "Biyoregülatörler",
+      "nootropics": "Nootropikler",
+      "ghAnalogs": "GH Analogları & Sektagoglar",
+      "myostatin": "Miyostatin İnhibitörleri",
+      "gonadotropins": "Gonadotropinler",
+      "injectables": "Enjektabl Ürünler",
+      "nasal": "Burun Spreyleri",
+      "pellets": "Pelletler & Haplar",
+      "researchSupplies": "Araştırma Malzemeleri"
+    },
+    "catalog": {
+      "title": "Ürün Kataloğu",
+      "subtitle": "Kapsamlı araştırma peptitleri ve bileşikleri yelpazemizi inceleyin"
+    }
+  },
+  "testResults": {
+    "title": "Test Sonuçları",
+    "subtitle": "Tüm ürünlerimiz için üçüncü taraf laboratuvar raporlarını görüntüleyin",
+    "download": "COA İndir"
+  },
+  "about": {
+    "title": "Hakkımızda",
+    "content": "AnkiPeptide, ultra saf araştırma peptitleri ve laboratuvar bileşiklerinin önde gelen tedarikçisidir. In-vitro araştırma uygulamaları için dünya çapındaki araştırmacılara, laboratuvarlara ve farmasötik şirketlere yüksek kaliteli peptitler tedarik ediyoruz.",
+    "mission": "Misyonumuz, araştırmacılara rekabetçi fiyatlarla yüksek saflıkta peptit bileşiklerine güvenilir erişim sağlamaktır."
+  },
+  "b2b": {
+    "title": "B2B Ortaklıkları",
+    "subtitle": "Araştırma kurumları ve farmasötik şirketler için toplu siparişler ve özel sentez",
+    "contact": "Toplu fiyat için iletişime geçin"
+  },
+  "contact": {
+    "title": "İletişim",
+    "subtitle": "Ürün sorguları, toplu siparişler veya teknik destek için bizimle iletişime geçin"
+  },
+  "footer": {
+    "products": "Ürünler",
+    "company": "Şirket",
+    "support": "Destek",
+    "legal": "Yasal",
+    "allProducts": "Tüm Ürünler",
+    "testResults": "Test Sonuçları",
+    "about": "Hakkımızda",
+    "b2b": "B2B",
+    "contact": "İletişim",
+    "faq": "SSS",
+    "shipping": "Kargo Bilgileri",
+    "quality": "Kalite Güvencesi",
+    "privacy": "Gizlilik",
+    "terms": "Şartlar",
+    "disclaimer": "Yalnızca araştırma kullanımı. İnsan tüketimi için değildir.",
+    "copyright": "Tüm hakları saklıdır."
+  }
+}

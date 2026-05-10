@@ -1,0 +1,91 @@
+{
+  "nav": {
+    "products": "Produk",
+    "testResults": "Hasil Uji",
+    "about": "Tentang kami",
+    "b2b": "B2B",
+    "contact": "Hubungi"
+  },
+  "language": {
+    "select": "Pilih bahasa"
+  },
+  "hero": {
+    "title": "Penyedia Peptida Penelitian",
+    "subtitle": "Peptida penelitian ultra-murni dan senyawa laboratorium untuk penelitian in-vitro. Diuji pihak ketiga pada kemurnian 99%+. Pengiriman UE & worldwide.",
+    "viewProducts": "Lihat Produk",
+    "getQuote": "Dapatkan Penawaran",
+    "disclaimer": "Hanya untuk penelitian laboratorium. Bukan untuk penggunaan manusia."
+  },
+  "features": {
+    "highPurity": {
+      "title": "Kemurnian 99%+ Terverifikasi",
+      "description": "Setiap batch diuji oleh pihak ketiga dengan verifikasi HPLC dan spektrometri massa. Sertifikat tersedia untuk semua produk."
+    },
+    "globalShipping": {
+      "title": "Pengiriman Worldwide",
+      "description": "Pengiriman cepat dan andal ke UE dan tujuan worldwide. Logistik rantai dingin untuk senyawa sensitif."
+    },
+    "qualityAssurance": {
+      "title": "Jaminan Kualitas",
+      "description": "Manufaktur bersertifikat ISO. Pelacakan lengkap dari bahan baku hingga produk akhir. Laporan kualitas termasuk."
+    }
+  },
+  "product": {
+    "categories": {
+      "title": "Kategori Produk",
+      "peptides": "Peptida",
+      "glp1": "Analog GLP-1",
+      "sarms": "SARMs",
+      "bioregulators": "Bioregulator",
+      "nootropics": "Nootropik",
+      "ghAnalogs": "Analog GH",
+      "myostatin": "Penghambat Miostatin",
+      "gonadotropins": "Gonadotropin",
+      "injectables": "Suntik",
+      "nasal": "Semprot Hidung",
+      "pellets": "Pelet & Tablet",
+      "researchSupplies": "Perlengkapan Penelitian"
+    },
+    "catalog": {
+      "title": "Katalog Produk",
+      "subtitle": "Jelajahi berbagai peptida dan senyawa penelitian komprehensif kami"
+    }
+  },
+  "testResults": {
+    "title": "Hasil Uji",
+    "subtitle": "Lihat laporan laboratorium pihak ketiga untuk semua produk kami",
+    "download": "Unduh COA"
+  },
+  "about": {
+    "title": "Tentang kami",
+    "content": "AnkiPeptide adalah penyedia terkemuka peptida penelitian ultra-murni dan senyawa laboratorium. Kami menyuplai peptida berkualitas tinggi kepada peneliti, laboratorium, dan perusahaan farmasi di seluruh dunia untuk aplikasi penelitian in-vitro.",
+    "mission": "Misi kami adalah menyediakan peneliti dengan akses yang dapat diandalkan ke senyawa peptida kemurnian tinggi dengan harga kompetitif."
+  },
+  "b2b": {
+    "title": "Kemitraan B2B",
+    "subtitle": "Pesanan massal dan sintesis kustom untuk institusi penelitian dan perusahaan farmasi",
+    "contact": "Hubungi kami untuk harga massal"
+  },
+  "contact": {
+    "title": "Hubungi",
+    "subtitle": "Hubungi kami untuk inquiries produk, pesanan massal, atau dukungan teknis"
+  },
+  "footer": {
+    "products": "Produk",
+    "company": "Perusahaan",
+    "support": "Dukungan",
+    "legal": "Hukum",
+    "allProducts": "Semua Produk",
+    "testResults": "Hasil Uji",
+    "about": "Tentang kami",
+    "b2b": "B2B",
+    "contact": "Hubungi",
+    "faq": "Pertanyaan Umum",
+    "shipping": "Info Pengiriman",
+    "quality": "Jaminan Kualitas",
+    "privacy": "Privasi",
+    "terms": "Ketentuan",
+    "disclaimer": "Hanya untuk penggunaan penelitian. Bukan untuk konsumsi manusia.",
+    "copyright": "Semua hak dilindungi."
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "nav": {
+    "products": "Produits",
+    "testResults": "Résultats",
+    "about": "À propos",
+    "b2b": "B2B",
+    "contact": "Contact"
+  },
+  "language": {
+    "select": "Choisir la langue"
+  },
+  "hero": {
+    "title": "Fournisseur de peptides de recherche",
+    "subtitle": "Peptides de recherche ultra-purs et composés de laboratoire pour la recherche in-vitro. Testés par des tiers à 99%+ de pureté. Expédition UE et mondiale.",
+    "viewProducts": "Voir les produits",
+    "getQuote": "Demander un devis",
+    "disclaimer": "Pour la recherche en laboratoire uniquement. Pas pour un usage humain."
+  },
+  "features": {
+    "highPurity": {
+      "title": "Pureté 99%+ vérifiée",
+      "description": "Chaque lot est testé par des tiers avec vérification HPLC et spectrométrie de masse. Certificats disponibles pour tous les produits."
+    },
+    "globalShipping": {
+      "title": "Expédition mondiale",
+      "description": "Expédition rapide et fiable vers l'UE et les destinations mondiales. Logistique en chaîne du froid pour les composés sensibles."
+    },
+    "qualityAssurance": {
+      "title": "Assurance qualité",
+      "description": "Fabrication certifiée ISO. Traçabilité complète des matières premières au produit final. Rapports de qualité inclus."
+    }
+  },
+  "product": {
+    "categories": {
+      "title": "Catégories de produits",
+      "peptides": "Peptides",
+      "glp1": "Analogue GLP-1",
+      "sarms": "SARMs",
+      "bioregulators": "Biorégulateurs",
+      "nootropics": "Nootropiques",
+      "ghAnalogs": "Analogue GH & Sécatagogues",
+      "myostatin": "Inhibiteurs de la myostatine",
+      "gonadotropins": "Gonadotrophines",
+      "injectables": "Injectables",
+      "nasal": "Sprays nasaux",
+      "pellets": "Granulés & Pilules",
+      "researchSupplies": "Fournitures de recherche"
+    },
+    "catalog": {
+      "title": "Catalogue produits",
+      "subtitle": "Parcourez notre gamme complète de peptides et composés de recherche"
+    }
+  },
+  "testResults": {
+    "title": "Résultats des tests",
+    "subtitle": "Voir les rapports de laboratoire tiers pour tous nos produits",
+    "download": "Télécharger COA"
+  },
+  "about": {
+    "title": "À propos",
+    "content": "AnkiPeptide est un fournisseur leader de peptides de recherche ultra-purs et de composés de laboratoire. Nous approvisionnons chercheurs, laboratoires et sociétés pharmaceutiques du monde entier avec des peptides de haute qualité pour des applications de recherche in-vitro.",
+    "mission": "Notre mission est de fournir aux chercheurs un accès fiable à des composés peptidiques de haute pureté à des prix compétitifs."
+  },
+  "b2b": {
+    "title": "Partenariats B2B",
+    "subtitle": "Commandes en gros et synthèse personnalisée pour institutions de recherche et sociétés pharmaceutiques",
+    "contact": "Contactez-nous pour les prix de gros"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Contactez-nous pour les demandes de produits, les commandes en gros ou le support technique"
+  },
+  "footer": {
+    "products": "Produits",
+    "company": "Entreprise",
+    "support": "Support",
+    "legal": "Légal",
+    "allProducts": "Tous les produits",
+    "testResults": "Résultats des tests",
+    "about": "À propos",
+    "b2b": "B2B",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "shipping": "Infos livraison",
+    "quality": "Assurance qualité",
+    "privacy": "Confidentialité",
+    "terms": "Conditions",
+    "disclaimer": "Pour recherche uniquement. Pas pour consommation humaine.",
+    "copyright": "Tous droits réservés."
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "nav": {
+    "products": "Producten",
+    "testResults": "Testresultaten",
+    "about": "Over ons",
+    "b2b": "B2B",
+    "contact": "Contact"
+  },
+  "language": {
+    "select": "Taal kiezen"
+  },
+  "hero": {
+    "title": "Onderzoekspeptide leverancier",
+    "subtitle": "Ultra zuivere onderzoekspeptiden en laboratoriumverbindingen voor in-vitro onderzoek. Derde partij getest met 99%+ zuiverheid. EU & wereldwijde verzending.",
+    "viewProducts": "Bekijk producten",
+    "getQuote": "Offerte aanvragen",
+    "disclaimer": "Alleen voor laboratoriumonderzoek. Niet voor menselijk gebruik."
+  },
+  "features": {
+    "highPurity": {
+      "title": "99%+ Zuiverheid geverifieerd",
+      "description": "Elke batch wordt door derden getest met HPLC en massaspectrometrie verificatie. Certificaten beschikbaar voor alle producten."
+    },
+    "globalShipping": {
+      "title": "Wereldwijde verzending",
+      "description": "Snelle, betrouwbare verzending naar EU en wereldwijde bestemmingen. Koudeketenlogistiek voor gevoelige verbindingen."
+    },
+    "qualityAssurance": {
+      "title": "Kwaliteitsborging",
+      "description": "ISO-gecertificeerde productie. Volledige traceerbaarheid van grondstoffen tot eindproduct. Kwaliteitsrapporten inbegrepen."
+    }
+  },
+  "product": {
+    "categories": {
+      "title": "Productcategorieën",
+      "peptides": "Peptiden",
+      "glp1": "GLP-1 Analogen",
+      "sarms": "SARMs",
+      "bioregulators": "Bioregulatoren",
+      "nootropics": "Nootropica",
+      "ghAnalogs": "GH Analogen & Secatagoga",
+      "myostatin": "Myostatineremmers",
+      "gonadotropins": "Gonadotropines",
+      "injectables": "Injectables",
+      "nasal": "Neussprays",
+      "pellets": "Pellets & Pillen",
+      "researchSupplies": "Onderzoeksbenodigdheden"
+    },
+    "catalog": {
+      "title": "Productcatalogus",
+      "subtitle": "Bekijk ons complete assortiment onderzoekspeptiden en verbindingen"
+    }
+  },
+  "testResults": {
+    "title": "Testresultaten",
+    "subtitle": "Bekijk laboratoriumrapporten van derden voor al onze producten",
+    "download": "Download COA"
+  },
+  "about": {
+    "title": "Over ons",
+    "content": "AnkiPeptide is een toonaangevende leverancier van ultra zuivere onderzoekspeptiden en laboratoriumverbindingen. Wij voorzien onderzoekers, laboratoria en farmaceutische bedrijven wereldwijd van hoogwaardige peptiden voor in-vitro onderzoekstoepassingen.",
+    "mission": "Onze missie is onderzoekers betrouwbare toegang te geven tot hoogzuivere peptideverbindingen tegen concurrerende prijzen."
+  },
+  "b2b": {
+    "title": "B2B partnerschappen",
+    "subtitle": "Bulkbestellingen en custom synthese voor onderzoeksinstellingen en farmaceutische bedrijven",
+    "contact": "Neem contact op voor bulkprijzen"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Neem contact op voor productvragen, bulkbestellingen of technische ondersteuning"
+  },
+  "footer": {
+    "products": "Producten",
+    "company": "Bedrijf",
+    "support": "Ondersteuning",
+    "legal": "Juridisch",
+    "allProducts": "Alle producten",
+    "testResults": "Testresultaten",
+    "about": "Over ons",
+    "b2b": "B2B",
+    "contact": "Contact",
+    "faq": "Veelgestelde vragen",
+    "shipping": "Verzendinfo",
+    "quality": "Kwaliteitsborging",
+    "privacy": "Privacy",
+    "terms": "Voorwaarden",
+    "disclaimer": "Alleen voor onderzoek. Niet voor menselijke consumptie.",
+    "copyright": "Alle rechten voorbehouden."
+  }
+}

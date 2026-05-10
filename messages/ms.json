@@ -1,0 +1,91 @@
+{
+  "nav": {
+    "products": "Produk",
+    "testResults": "Keputusan ujian",
+    "about": "Tentang kami",
+    "b2b": "B2B",
+    "contact": "Hubungi"
+  },
+  "language": {
+    "select": "Pilih bahasa"
+  },
+  "hero": {
+    "title": "Pembekal Peptida Penyelidikan",
+    "subtitle": "Peptida penyelidikan ultra tulen dan sebatian makmal untuk kajian in-vitro. Diuji pihak ketiga pada 99%+ kemurnian. Penghantaran EU & seluruh dunia.",
+    "viewProducts": "Lihat produk",
+    "getQuote": "Dapatkan sebut harga",
+    "disclaimer": "Untuk makmal sahaja. Tidak untuk penggunaan manusia."
+  },
+  "features": {
+    "highPurity": {
+      "title": "Kemurnian 99%+ Disahkan",
+      "description": "Setiap batch diuji oleh pihak ketiga dengan pengesahan HPLC dan spektrometri jisim. Sijil tersedia untuk semua produk."
+    },
+    "globalShipping": {
+      "title": "Penghantaran Seluruh Dunia",
+      "description": "Penghantaran cepat dan boleh dipercayai ke EU dan destinasi seluruh dunia. Logistik rantaian sejuk untuk sebatian sensitif."
+    },
+    "qualityAssurance": {
+      "title": "Jaminan Kualiti",
+      "description": "Pengeluaran bersijil ISO. Kebolehjejakan lengkap dari bahan mentah hingga produk akhir. Laporan kualiti disertakan."
+    }
+  },
+  "product": {
+    "categories": {
+      "title": "Kategori Produk",
+      "peptides": "Peptida",
+      "glp1": "Analog GLP-1",
+      "sarms": "SARMs",
+      "bioregulators": "Bioregulator",
+      "nootropics": "Nootropik",
+      "ghAnalogs": "Analog GH",
+      "myostatin": "Perencat Myostatin",
+      "gonadotropins": "Gonadotropin",
+      "injectables": "Suntikan",
+      "nasal": " semburan hidung",
+      "pellets": "Pelet & pil",
+      "researchSupplies": "Bekalan kajian"
+    },
+    "catalog": {
+      "title": "Katalog Produk",
+      "subtitle": "Terokai pelbagai lengkap peptida dan sebatian kajian kami"
+    }
+  },
+  "testResults": {
+    "title": "Keputusan Ujian",
+    "subtitle": "Lihat laporan makmal pihak ketiga untuk semua produk kami",
+    "download": "Muat turun COA"
+  },
+  "about": {
+    "title": "Tentang kami",
+    "content": "AnkiPeptide adalah pembekal terkemuka peptida Penyelidikan ultra tulen dan sebatian makmal. Kami membekalkan peptida berkualiti tinggi kepada penyelidik, makmal dan syarikat farmaseutikal di seluruh dunia untuk aplikasi kajian in-vitro.",
+    "mission": "Misi kami adalah untuk menyediakan penyelidik dengan akses yang boleh dipercayai kepada sebatian peptida kemurnian tinggi pada harga yang kompetitif."
+  },
+  "b2b": {
+    "title": "Kerjasama B2B",
+    "subtitle": "Pesanan pukal dan sintesis tersuai untuk institusi kajian dan syarikat farmaseutikal",
+    "contact": "Hubungi kami untuk harga pukal"
+  },
+  "contact": {
+    "title": "Hubungi",
+    "subtitle": "Hubungi kami untuk pertanyaan produk, pesanan pukal atau sokongan teknikal"
+  },
+  "footer": {
+    "products": "Produk",
+    "company": "Syarikat",
+    "support": " sokongan",
+    "legal": "Guaman",
+    "allProducts": "Semua Produk",
+    "testResults": "Keputusan Ujian",
+    "about": "Tentang kami",
+    "b2b": "B2B",
+    "contact": "Hubungi",
+    "faq": "Soalan Lazim",
+    "shipping": "Maklumat penghantaran",
+    "quality": "Jaminan Kualiti",
+    "privacy": "Privasi",
+    "terms": "Syarat",
+    "disclaimer": "Untuk kajian sahaja. Bukan untuk penggunaan manusia.",
+    "copyright": " Hak cipta terpelihara."
+  }
+}

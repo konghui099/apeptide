@@ -1,0 +1,91 @@
+{
+  "nav": {
+    "products": "Mga Produk",
+    "testResults": "Mga Resulta ng Pagsubok",
+    "about": "Tungkol Sa Amin",
+    "b2b": "B2B",
+    "contact": "Makipag-ugnayan"
+  },
+  "language": {
+    "select": "Pumili ng Wika"
+  },
+  "hero": {
+    "title": "Tagatustos ng Peptide sa Pananaliksik",
+    "subtitle": "Ultra-pure na peptide sa pananaliksik at mga compound sa laboratoryo para sa pananaliksik in-vitro. Sinubok ng ikatlong partido sa 99%+ purity. EU & pandaigdigang pagpapadala.",
+    "viewProducts": "Tingnan ang Mga Produk",
+    "getQuote": "Kumuha ng Quote",
+    "disclaimer": "Para sa laboratoryo lang. Hindi para sa paggamit ng tao."
+  },
+  "features": {
+    "highPurity": {
+      "title": "99%+ Purity na Napatunayan",
+      "description": "Ang bawat batch ay sinubok ng ikatlong partido na may HPLC at mass spectrometry verification. Available ang mga sertipiko para sa lahat ng produkto."
+    },
+    "globalShipping": {
+      "title": "Pandaigdigang Pagpapadala",
+      "description": "Mabilis, maaasahang pagpapadala sa EU at mga destinasyon sa buong mundo. Cold-chain logistics para sa mga sensitibong compound."
+    },
+    "qualityAssurance": {
+      "title": "Quality Assurance",
+      "description": "ISO certified na manufacturing. Full traceability mula sa raw materials hanggang sa final product. Kasama ang quality reports."
+    }
+  },
+  "product": {
+    "categories": {
+      "title": "Mga Kategorya ng Produkto",
+      "peptides": "Mga Peptide",
+      "glp1": "Mga Analog ng GLP-1",
+      "sarms": "SARMs",
+      "bioregulators": "Mga Bioregulator",
+      "nootropics": "Mga Nootropics",
+      "ghAnalogs": "Mga Analog ng GH",
+      "myostatin": "Mga Inhibitor ng Myostatin",
+      "gonadotropins": "Mga Gonadotropin",
+      "injectables": "Mga Injectable",
+      "nasal": "Mga Spray sa Ilong",
+      "pellets": "Mga Pellet & Pills",
+      "researchSupplies": "Mga Kagamitan sa Pananaliksik"
+    },
+    "catalog": {
+      "title": "Katalogo ng Produkto",
+      "subtitle": "Tumingin ng aming komprehensibong hanay ng mga peptide at compound sa pananaliksik"
+    }
+  },
+  "testResults": {
+    "title": "Mga Resulta ng Pagsubok",
+    "subtitle": "Tingnan ang mga ulat ng laboratoryo ng ikatlong partido para sa lahat ng aming produkto",
+    "download": "I-download ang COA"
+  },
+  "about": {
+    "title": "Tungkol Sa Amin",
+    "content": "Ang AnkiPeptide ay isang nangungunang tagatustos ng ultra-pure na peptide sa pananaliksik at mga compound sa laboratoryo. Nagbibigay kami ng mga de-kalidad na peptide sa mga researcher, laboratoryo, at kompanya ng pharma sa buong mundo para sa mga application ng pananaliksik in-vitro.",
+    "mission": "Ang aming misyon ay magbigay sa mga researcher ng maaasahang access sa mga compound ng peptide na may mataas na purity sa mga competitive na presyo."
+  },
+  "b2b": {
+    "title": "Mga Pakikipagsosyo sa B2B",
+    "subtitle": "Mga bulk order at custom synthesis para sa mga institusyon ng pananaliksik at kompanya ng pharma",
+    "contact": "Makipag-ugnayan para sa bulk pricing"
+  },
+  "contact": {
+    "title": "Makipag-ugnayan",
+    "subtitle": "Makipag-ugnayan sa amin para sa mga inquiry ng produkto, bulk orders, o technical support"
+  },
+  "footer": {
+    "products": "Mga Produkto",
+    "company": "Kompanya",
+    "support": "Suporta",
+    "legal": "Legal",
+    "allProducts": "Lahat ng Mga Produkto",
+    "testResults": "Mga Resulta ng Pagsubok",
+    "about": "Tungkol Sa Amin",
+    "b2b": "B2B",
+    "contact": "Makipag-ugnayan",
+    "faq": "Mga Karaniwang Tanong",
+    "shipping": "Impormasyon sa Pagpapadala",
+    "quality": "Quality Assurance",
+    "privacy": "Privacy",
+    "terms": "Mga Tuntunin",
+    "disclaimer": "Para sa paggamit sa pananaliksik lamang. Hindi para sa pagkonsumo ng tao.",
+    "copyright": "Lahat ng karapatan ay nakareserba."
+  }
+}

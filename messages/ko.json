@@ -1,0 +1,91 @@
+{
+  "nav": {
+    "products": "제품",
+    "testResults": "검성 결과",
+    "about": "회사 소개",
+    "b2b": "기업 구매",
+    "contact": "문의"
+  },
+  "language": {
+    "select": "언어 선택"
+  },
+  "hero": {
+    "title": "연구용 펩타이드 공급업체",
+    "subtitle": "초고순도 연구용 펩타이드 및 실험실 화합물. 제3자 검사 99%+ 순도. EU 및 전 세계 배송.",
+    "viewProducts": "제품 보기",
+    "getQuote": "견적 요청",
+    "disclaimer": "연구실 전용. 인체 사용 금지."
+  },
+  "features": {
+    "highPurity": {
+      "title": "99%+ 순도 검증",
+      "description": "모든 배치는 HPLC 및 질량 분석을 통한 제3자 검사를 거칩니다. 모든 제품의 검사 인증서를 제공합니다."
+    },
+    "globalShipping": {
+      "title": "전 세계 배송",
+      "description": "EU 및 전 세계 목적지로 빠르고 신뢰할 수 있는 배송. 민감한 화합물을 위한 냉장 보관 물류."
+    },
+    "qualityAssurance": {
+      "title": "품질 보증",
+      "description": "ISO 인증 제조. 원재료에서 완제품까지 완전한 추적 가능성. 품질 보고서 제공."
+    }
+  },
+  "product": {
+    "categories": {
+      "title": "제품 카테고리",
+      "peptides": "펩타이드",
+      "glp1": "GLP-1 유사체",
+      "sarms": "SARMs",
+      "bioregulators": "생체조절제",
+      "nootropics": "노otropics",
+      "ghAnalogs": "성장호르몬 유사체",
+      "myostatin": "미오스타틴 억제제",
+      "gonadotropins": "성선자극호르몬",
+      "injectables": "주사제",
+      "nasal": "비강 스프레이",
+      "pellets": "펠릿",
+      "researchSupplies": "연구 용품"
+    },
+    "catalog": {
+      "title": "제품 카탈로그",
+      "subtitle": "당사의 종합 연구용 펩타이드 및 화합물 범위 탐색"
+    }
+  },
+  "testResults": {
+    "title": "검성 결과",
+    "subtitle": "모든 제품의 제3자 실험실 보고서 보기",
+    "download": "COA 다운로드"
+  },
+  "about": {
+    "title": "회사 소개",
+    "content": "AnkiPeptide는 초고순도 연구용 펩타이드 및 실험실 화합물의 선도적 공급업체입니다. 체외 연구 응용을 위해 전 세계 연구자, 실험실 및 제약 회사에 고품질 펩타이드를 제공합니다.",
+    "mission": "당사의 사명은 경쟁력 있는 가격으로 고순도 펩타이드 화합물에 대한 안정적인 접근을 연구자에게 제공하는 것입니다."
+  },
+  "b2b": {
+    "title": "기업 파트너십",
+    "subtitle": "연구 기관 및 제약 회사를 위한 대량 주문 및 맞춤 합성",
+    "contact": "대량 가격 문의"
+  },
+  "contact": {
+    "title": "문의",
+    "subtitle": "제품 문의, 대량 주문 또는 기술 지원을 위해 문의하세요"
+  },
+  "footer": {
+    "products": "제품",
+    "company": "회사",
+    "support": "지원",
+    "legal": "법률 정보",
+    "allProducts": "모든 제품",
+    "testResults": "검성 결과",
+    "about": "회사 소개",
+    "b2b": "기업 구매",
+    "contact": "문의",
+    "faq": "자주 묻는 질문",
+    "shipping": "배송 정보",
+    "quality": "품질 보증",
+    "privacy": "개인정보 처리방침",
+    "terms": "이용약관",
+    "disclaimer": "연구용으로만 사용. 인체 섭취 금지.",
+    "copyright": "모든 권리 보유."
+  }
+}

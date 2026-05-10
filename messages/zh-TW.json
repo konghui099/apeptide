@@ -1,0 +1,91 @@
+{
+  "nav": {
+    "products": "產品",
+    "testResults": "檢測報告",
+    "about": "關於我們",
+    "b2b": "企業採購",
+    "contact": "聯繫我們"
+  },
+  "language": {
+    "select": "選擇語言"
+  },
+  "hero": {
+    "title": "科研多肽供應商",
+    "subtitle": "超高純度科研多肽和實驗室化合物，用於體外研究。第三方檢測，純度99%+。歐盟及全球配送。",
+    "viewProducts": "瀏覽產品",
+    "getQuote": "獲取報價",
+    "disclaimer": "僅用於實驗室研究用途。不可用於人體。"
+  },
+  "features": {
+    "highPurity": {
+      "title": "99%+ 純度驗證",
+      "description": "每批次均通過第三方HPLC和質譜檢測。所有產品均提供檢測證書。"
+    },
+    "globalShipping": {
+      "title": "全球配送",
+      "description": "快速可靠的配送服務，覆蓋歐盟及全球目的地。敏感化合物冷鏈物流。"
+    },
+    "qualityAssurance": {
+      "title": "質量保証",
+      "description": "ISO認證製造商。從原材料到成品的全程可追溯。提供質量報告。"
+    }
+  },
+  "product": {
+    "categories": {
+      "title": "產品分類",
+      "peptides": "多肽",
+      "glp1": "GLP-1 類似物",
+      "sarms": "SARMs",
+      "bioregulators": "生物調節劑",
+      "nootropics": "促智劑",
+      "ghAnalogs": "生長激素類似物",
+      "myostatin": "肌抑素抑制劑",
+      "gonadotropins": "促性腺激素",
+      "injectables": "注射劑",
+      "nasal": "鼻噴劑",
+      "pellets": "pellet",
+      "researchSupplies": "研究用品"
+    },
+    "catalog": {
+      "title": "產品目錄",
+      "subtitle": "瀏覽我們的全系列科研多肽和化合物"
+    }
+  },
+  "testResults": {
+    "title": "檢測報告",
+    "subtitle": "查看所有產品的第三方實驗室報告",
+    "download": "下載COA"
+  },
+  "about": {
+    "title": "關於我們",
+    "content": "AnkiPeptide 是領先的科研多肽和實驗室化合物供應商。我們為全球研究人員、實驗室和製藥公司提供用於體外研究的高質量多肽。",
+    "mission": "我們的使命是為研究人員提供可靠的、高純度多肽化合物，價格優惠。"
+  },
+  "b2b": {
+    "title": "企業合作",
+    "subtitle": "為研究機構和製藥公司提供批量採購和定制合成服務",
+    "contact": "聯繫獲取批量報價"
+  },
+  "contact": {
+    "title": "聯繫我們",
+    "subtitle": "產品諮詢、批量採購或技術支持請聯繫我們"
+  },
+  "footer": {
+    "products": "產品",
+    "company": "公司",
+    "support": "支持",
+    "legal": "法律信息",
+    "allProducts": "全部產品",
+    "testResults": "檢測報告",
+    "about": "關於我們",
+    "b2b": "企業採購",
+    "contact": "聯繫我們",
+    "faq": "常見問題",
+    "shipping": "配送信息",
+    "quality": "質量保証",
+    "privacy": "隱私政策",
+    "terms": "服務條款",
+    "disclaimer": "僅供研究使用。不可用於人體攝入。",
+    "copyright": "版權所有。"
+  }
+}

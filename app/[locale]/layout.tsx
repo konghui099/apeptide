@@ -16,8 +16,15 @@ type LocaleParams = {
 };
 
 export function generateStaticParams() {
-  return [{ locale: 'en' }, { locale: 'zh' }, { locale: 'ja' }, { locale: 'es' }];
+  return [
+    { locale: 'en' }, { locale: 'zh' }, { locale: 'zh-TW' }, { locale: 'ja' }, { locale: 'ko' },
+    { locale: 'es' }, { locale: 'de' }, { locale: 'fr' }, { locale: 'nl' },
+    { locale: 'ar' }, { locale: 'tr' }, { locale: 'fa' }, { locale: 'vi' },
+    { locale: 'th' }, { locale: 'ms' }, { locale: 'id' }, { locale: 'tl' }
+  ];
 }
+
+const rtlLocales = ['ar', 'fa', 'he'];
 
 export default async function LocaleLayout({
   children,
@@ -27,9 +34,10 @@ export default async function LocaleLayout({
   setRequestLocale(locale);
 
   const messages = await getMessages();
+  const isRTL = rtlLocales.includes(locale);
 
   return (
-    <html lang={locale}>
+    <html lang={locale} dir={isRTL ? 'rtl' : 'ltr'}>
       <body className={`${inter.className} antialiased`}>
         <NextIntlClientProvider messages={messages}>
           <Suspense fallback={null}>

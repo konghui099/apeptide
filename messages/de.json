@@ -1,0 +1,91 @@
+{
+  "nav": {
+    "products": "Produkte",
+    "testResults": "Prüfergebnisse",
+    "about": "Über uns",
+    "b2b": "B2B",
+    "contact": "Kontakt"
+  },
+  "language": {
+    "select": "Sprache wählen"
+  },
+  "hero": {
+    "title": "Forschungspeptid-Lieferant",
+    "subtitle": "Ultrarreine Forschungspeptide und Laborverbindungen für In-vitro-Forschung. Drittgeprüft mit 99%+ Reinheit. EU & weltweiter Versand.",
+    "viewProducts": "Produkte ansehen",
+    "getQuote": "Angebot anfordern",
+    "disclaimer": "Nur für Laborforschung. Nicht für den menschlichen Gebrauch."
+  },
+  "features": {
+    "highPurity": {
+      "title": "99%+ Reinheit verifiziert",
+      "description": "Jede Charge wird mit HPLC und Massenspektrometrie von unabhängigen Laboren geprüft. Zertifikate für alle Produkte verfügbar."
+    },
+    "globalShipping": {
+      "title": "Weltweiter Versand",
+      "description": "Schneller, zuverlässiger Versand in die EU und weltweit. Kühlkettenlogistik für empfindliche Verbindungen."
+    },
+    "qualityAssurance": {
+      "title": "Qualitätssicherung",
+      "description": "ISO-zertifizierte Fertigung. Vollständige Rückverfolgbarkeit vom Rohmaterial bis zum Endprodukt. Qualitätsberichte inklusive."
+    }
+  },
+  "product": {
+    "categories": {
+      "title": "Produktkategorien",
+      "peptides": "Peptide",
+      "glp1": "GLP-1 Analoga",
+      "sarms": "SARMs",
+      "bioregulators": "Bioregulatoren",
+      "nootropics": "Nootropika",
+      "ghAnalogs": "GH-Analoga & Sektagoga",
+      "myostatin": "Myostatin-Inhibitoren",
+      "gonadotropins": "Gonadotropine",
+      "injectables": "Injektionen",
+      "nasal": "Nasensprays",
+      "pellets": "Pellets & Tabletten",
+      "researchSupplies": "Forschungsbedarf"
+    },
+    "catalog": {
+      "title": "Produktkatalog",
+      "subtitle": "Durchsuchen Sie unser umfassendes Sortiment an Forschungspeptiden und Verbindungen"
+    }
+  },
+  "testResults": {
+    "title": "Prüfergebnisse",
+    "subtitle": "Drittlaboregebnisse für alle unsere Produkte ansehen",
+    "download": "COA herunterladen"
+  },
+  "about": {
+    "title": "Über uns",
+    "content": "AnkiPeptide ist ein führender Lieferant von ultrareinen Forschungspeptiden und Laborverbindungen. Wir versorgen Forscher, Labore und Pharmaunternehmen weltweit mit hochwertigen Peptiden für In-vitro-Forschungsanwendungen.",
+    "mission": "Unsere Mission ist es, Forschern zuverlässigen Zugang zu hochreinen Peptidverbindungen zu wettbewerbsfähigen Preisen zu bieten."
+  },
+  "b2b": {
+    "title": "B2B-Partnerschaften",
+    "subtitle": "Großbestellungen und Custom-Synthese für Forschungseinrichtungen und Pharmaunternehmen",
+    "contact": "Kontakt für Großhandelspreise"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Kontaktieren Sie uns für Produktanfragen, Großbestellungen oder technischen Support"
+  },
+  "footer": {
+    "products": "Produkte",
+    "company": "Unternehmen",
+    "support": "Support",
+    "legal": "Rechtliches",
+    "allProducts": "Alle Produkte",
+    "testResults": "Prüfergebnisse",
+    "about": "Über uns",
+    "b2b": "B2B",
+    "contact": "Kontakt",
+    "faq": "FAQ",
+    "shipping": "Versandinfo",
+    "quality": "Qualitätssicherung",
+    "privacy": "Datenschutz",
+    "terms": "AGB",
+    "disclaimer": "Nur für Forschungszwecke. Nicht für menschlichen Verzehr.",
+    "copyright": "Alle Rechte vorbehalten."
+  }
+}
