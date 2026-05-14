@@ -1,8 +1,6 @@
-export default function Home() {
-  return (
-    <main style={{ padding: "50px", textAlign: "center" }}>
-      <h1>🎉 部署成功！</h1>
-      <p>这是我的 Next.js 首页。</p>
-    </main>
-  )
+import { redirect } from 'next/navigation';
+
+export default function RootPage() {
+  // 这里假设你的默认语言是 'zh'，如果是英文就改成 'en'
+  redirect('/en');
 }
