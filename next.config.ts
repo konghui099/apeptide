@@ -5,7 +5,7 @@ const withNextIntl = createNextIntlPlugin();
 
 const nextConfig: NextConfig = {
   output: 'export',
-  reactStrictMode: true，
+  reactStrictMode: true,
   images: {
     remotePatterns: [
       {
